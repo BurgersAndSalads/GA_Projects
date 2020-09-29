@@ -1,4 +1,4 @@
-# GA_Projects
+# GA_Deliverbles
 Deliverables for GA SEI-35-7
 
 <a href="https://codepen.io/BurgersAndSalads/pen/PoNVYbN">JS Arrays Lab</a>
